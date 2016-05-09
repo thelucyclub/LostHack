@@ -21,7 +21,7 @@ var menu;
 
 var version = "0.1";
 var name = "BetaHack";
-var authers = "TylerGamesTV";
+var authers = "LostTeam";
 
 var tg = false;
 var tapspam = false;
