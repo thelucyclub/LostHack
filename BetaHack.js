@@ -144,7 +144,7 @@ Exit.setOnClickListener(new android.view.View.OnClickListener(){
 onClick: function(view){
 stext =txx.getText();
 tapspam = true;
-clientMessage("§eTap ground to spam!");
+clientMessage("§l§1[§cBeta§bHack§1]§r§eTap ground to spam!");
 Dialog.dismiss();
 }
 });
