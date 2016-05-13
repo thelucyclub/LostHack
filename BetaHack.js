@@ -37,7 +37,7 @@ ctx.runOnUiThread(new Runnable({ run: function(){
         layout.setOrientation(1);
         var menuBtn = new Button(ctx);
 menuBtn.setTextSize(20);
-        menuBtn.setText("Tylers mod");
+        menuBtn.setText("BetaHack -- LostTeam");
         menuBtn.setOnClickListener(new View.OnClickListener({
             onClick: function(viewarg){
 
